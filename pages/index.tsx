@@ -438,7 +438,7 @@ function App() {
                   .mintArch()
                   .then((res: any) => {
                     window.alert(
-                      `WC x Archangel Minted\n\n${JSON.stringify(res)}`
+                      `Archangel x WC Minted\n\n${JSON.stringify(res)}`
                     );
                   })
                   .catch((error: any) => {
