@@ -1,4 +1,4 @@
-export const arch_address = "0x469D878d168b2A2B1D2c2944824317aCA2C1d6B3";
+export const arch_address = "0x9634960726F2cAce028435422CE6cE5C108a04c0";
 export const arch_abi = [
   {
     inputs: [],
